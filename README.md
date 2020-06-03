@@ -1,2 +1,2 @@
 # ipfs-static-website
-Static website on IPFS
+Static website on IPFS.
